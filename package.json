@@ -22,7 +22,7 @@
     "@rxweb/reactive-form-validators": "^13.0.1",
     "bootstrap": "^5.3.3",
     "jwt-decode": "^4.0.0",
-    "ngx-owl-carousel-o": "^17.0.0",
+    "ngx-owl-carousel-o": "^16.0.1",
     "ngx-spinner": "^16.0.2",
     "ngx-toastr": "^18.0.0",
     "rxjs": "~7.8.0",
